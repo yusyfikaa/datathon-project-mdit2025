@@ -29,7 +29,3 @@ This project was developed as part of the Datathon competition, where the object
 * **Machine Learning-Driven Analysis:** Utilizing the CRISP-DM framework, the team implemented Random Forest machine learning models to analyze labor market datasets, which effectively identified complex patterns in unemployment trends and forecasted industry growth, surpassing the limitations of traditional, anecdotal career guidance methods.
 
 * **Empowering Data-Informed Career Planning:** By transforming raw public data into actionable intelligence, the project provides a predictive "what-if" simulator and dashboard to help youths identify high-demand industries and align their skills with market needs, directly contributing to national objectives and SDGs 4 and 8.
-
-## 🏆 Achievement
-
-Top 10 Finalist – Malaysia Data Innovation Talent x DOSM Datathon 2025 (State Level)
